@@ -17,7 +17,7 @@ tempfile = "3.7.1"
 [dependencies]
 anyhow = "1.0"
 ark-bls12-381 = "0.3.0"
-ark-serialize = { version = "0.4.0", features = ["derive"] }
+ark-serialize = { version = "0.4.2", features = ["derive"] }
 async-compatibility-layer = { git = "https://github.com/EspressoSystems/async-compatibility-layer" }
 async-std = "1.12.0"
 async-trait = "0.1.71"
